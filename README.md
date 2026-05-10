@@ -4,7 +4,7 @@
 
 I've automated security testing pipelines with OWASP ZAP, built AI-powered command interfaces using LLMs, and reported a runtime bug in **Angular's core framework** ([#65666](https://github.com/angular/angular/issues/65666)). Currently exploring AI/RAG systems and scalable distributed architectures.
 
-🟢 **Open to work** · [Portfolio](https://portfolio-livid-seven-67.vercel.app/) · [Resume](https://portfolio-livid-seven-67.vercel.app/)
+🟢 **Open to work** · [Portfolio](https://portfolio-livid-seven-67.vercel.app/) · [Resume](https://drive.google.com/file/d/1uoFo3oyyJbVTlkLfkpK4RZLbHgUpPNUC/view?usp=sharing)
 
 ---
 
