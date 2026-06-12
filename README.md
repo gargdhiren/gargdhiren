@@ -1,6 +1,6 @@
 # Hi, I'm Dhiren Garg 👋
 
-**Full-Stack Software Engineer** with ~2 years of experience building high-throughput trading systems at **ION Trading**. I work across the stack — from designing Angular frontends and modular component libraries to engineering Spring Boot microservices processing **10000+ transactions/sec** with Kafka and event-driven architecture.
+**Frontend Software Engineer** with ~2 years of experience building high-throughput trading systems at **ION Trading**. I work across the stacks building Angular frontends, automation systems, and AI-powered tooling for high-throughput trading platforms processing 10000+ transactions/sec
 
 I've automated security testing pipelines with OWASP ZAP, built AI-powered command interfaces using LLMs, and reported a runtime bug in **Angular's core framework** ([#65666](https://github.com/angular/angular/issues/65666)). Currently exploring AI/RAG systems and scalable distributed architectures.
 
@@ -11,16 +11,15 @@ I've automated security testing pipelines with OWASP ZAP, built AI-powered comma
 ### 💼 Professional experience
 
 **Software Engineer** · ION Trading India · *Jul 2024 – Mar 2026*
-- Engineered Spring Boot services for contingent order types in trading systems, handling 10000+ txn/sec
 - Built an AI-powered command interface converting plain English to backend API actions across 10000+ financial instruments
 - Implemented an automated OWASP ZAP DAST framework integrated with CI/CD, reducing testing effort by 55%
 - Automated code review workflows using n8n + AI, reducing review time by 25% per PR
+- Resolved memory leaks in production Angular components, reducing memory consumption by 33%.
+- Identified and reported a runtime bug in Angular's `@for` control flow with `@angular/elements` — [angular/angular#65666](https://github.com/angular/angular/issues/65666)
 
 **Software Engineering Intern** · ION Trading India · *Jan 2024 – Jun 2024*
 - Designed 10+ Angular standalone components using Nx modular architecture, reducing bundle size by 23%
 - Built a Cypress E2E testing framework covering 28 critical workflows, saving 144+ dev hours/year
-- Identified and reported a runtime bug in Angular's `@for` control flow with `@angular/elements` — [angular/angular#65666](https://github.com/angular/angular/issues/65666)
-- Resolved memory leaks in production Angular components, reducing memory consumption by 33%
 
 ---
 
