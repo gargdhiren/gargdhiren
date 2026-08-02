@@ -1,6 +1,6 @@
 # Hi, I'm Dhiren Garg 👋
 
-**Frontend Software Engineer** with ~2 years of experience building high-throughput trading systems at **ION Trading**. I work across the stacks building Angular frontends, automation systems, and AI-powered tooling for high-throughput trading platforms processing 10000+ transactions/sec
+**Software Engineer** with ~2 years of experience building full-stack systems — currently at **Adobe** (via Tescra), previously at **ION Trading**. I work across the stack building React and Node.js tools, Angular frontends, automation systems, and AI-powered tooling.
 
 I've automated security testing pipelines with OWASP ZAP, built AI-powered command interfaces using LLMs, and reported a runtime bug in **Angular's core framework** ([#65666](https://github.com/angular/angular/issues/65666)). Currently exploring AI/RAG systems and scalable distributed architectures.
 
@@ -10,11 +10,15 @@ I've automated security testing pipelines with OWASP ZAP, built AI-powered comma
 
 ### 💼 Professional experience
 
+**Software Engineer** · Adobe (via Tescra Software Pvt. Ltd.) · *Jul 2026 – Present*
+- Contribute to full-stack development of an internal testing portal in React and Node.js, used by 15+ engineering teams across Adobe
+- Perform end-to-end testing across 5+ projects spanning multiple Adobe product teams, improving automated test coverage and release reliability
+
 **Software Engineer** · ION Trading India · *Jul 2024 – Mar 2026*
 - Built an AI-powered command interface converting plain English to backend API actions across 10000+ financial instruments
 - Implemented an automated OWASP ZAP DAST framework integrated with CI/CD, reducing testing effort by 55%
 - Automated code review workflows using n8n + AI, reducing review time by 25% per PR
-- Resolved memory leaks in production Angular components, reducing memory consumption by 33%.
+- Resolved memory leaks in production Angular components, reducing memory consumption by 33%
 - Identified and reported a runtime bug in Angular's `@for` control flow with `@angular/elements` — [angular/angular#65666](https://github.com/angular/angular/issues/65666)
 
 **Software Engineering Intern** · ION Trading India · *Jan 2024 – Jun 2024*
@@ -34,22 +38,26 @@ I've automated security testing pipelines with OWASP ZAP, built AI-powered comma
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
+
 **Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
 
 **Databases**
 
@@ -90,9 +98,9 @@ I've automated security testing pipelines with OWASP ZAP, built AI-powered comma
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**PostIt Microservices**](https://github.com/gargdhiren/LinkedIn-Clone) | Microservices social platform with 6 independently deployable services, event-driven architecture via Kafka, API Gateway with JWT auth, Eureka discovery, and hybrid PostgreSQL + Neo4j persistence | Java · Spring Boot · Spring Cloud · Kafka · Neo4j · PostgreSQL · Docker |
+| [**RevisionBuddy**](https://github.com/gargdhiren/Revision-Buddy) | Live AI-powered notes & spaced repetition app — auto-generates flashcards, cloze deletions, and MCQs from notes using Groq LLM, with a 5-box spaced repetition scheduler. [Live Demo ↗](https://revision-and-notes-buddy.vercel.app) | Next.js · React · TypeScript · PostgreSQL · Prisma · Groq |
+| [**PostIt Microservices**](https://github.com/gargdhiren/PostIT) | Microservices social platform with 6 independently deployable services, event-driven architecture via Kafka, API Gateway with JWT auth, Eureka discovery, and hybrid PostgreSQL + Neo4j persistence | Java · Spring Boot · Spring Cloud · Kafka · Neo4j · PostgreSQL · Docker |
 | [**DesignReviewer**](https://github.com/gargdhiren/DesignReviewer) | RAG-powered document Q&A system — upload PDFs, ask questions, get context-aware answers using vector embeddings, cosine similarity search, and local LLMs via Ollama | Java · Spring Boot · Spring AI · Ollama · PostgreSQL |
-| [**Basketball Wiki**](https://github.com/gargdhiren/basketballwiki) | Full-stack sports community app with auth, CRUD posts, likes, comments, and live news feed via NewsAPI. Role-based access — guests get read-only, logged-in users get full interaction | JavaScript · React · Firebase · REST APIs |
 
 ---
 
